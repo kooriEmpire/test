@@ -5,7 +5,3 @@ hello this is my test
 
 
 first github test
-
-
-   <div style="border: 2px;background-color: red;">s</div>
-
