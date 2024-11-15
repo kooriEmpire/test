@@ -1,5 +1,5 @@
 ![logo](https://github.com/user-attachments/assets/e4ba6686-338d-4226-a7a9-6b10169152ef)
-<hr font-size=10px>
+<hr>
 hello this is my test
 
 
